@@ -8,6 +8,7 @@ const Header = () => {
            <nav>
             <span>My website using react</span>
             <Link to="/">Home</Link>
+            <Link to="/Posts">Posts</Link>
             <Link to="/about">About</Link>
             <Link to="/contact">Contact Us</Link>
             <Link to="/Users">Users</Link>
